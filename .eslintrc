@@ -1,0 +1,9 @@
+{
+  "globals": {
+    "angular": true
+  },
+  "rules": {
+    "max-len": [1, 80, 2],
+    "quotes": [1, "single"]
+  }
+}
